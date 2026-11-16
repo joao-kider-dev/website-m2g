@@ -1,12 +1,5 @@
+ HEAD
 # M2G — Câmera Contextual (Sprint 4 · Front-End Design + Web Development)
-
-Evolução da landing page da Sprint 03: agora em **React**, estilizada com **Tailwind CSS**, com rotas públicas e privadas, hooks customizados e consumo de API.
-
-## Links
-- Repositório (Sprint 3): https://github.com/joao-kider-dev/M2G--for-VIVO
-- Repositório (Sprint 4): https://github.com/dev-salvador/sprint-4-web-dev-front-end.git
-- Deploy (Vercel): **sprint-4-web-dev-front-end.vercel.app**
-
 ## Tecnologias
 React 18 · Vite 5 · React Router 6 · Tailwind CSS 3 · Git + Vercel
 
@@ -83,3 +76,4 @@ O projeto é publicado a partir do repositório do GitHub:
 1. Importar o repositório na Vercel (preset *Vite*, build `npm run build`, saída `dist`).
 2. Cadastrar a variável de ambiente `VITE_API_URL` com a URL base do MockAPI (valor acima).
 3. O `vercel.json` já contém o rewrite necessário para as rotas do React Router (`/login`, `/simulador`).
+
